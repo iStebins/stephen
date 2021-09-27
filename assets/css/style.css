@@ -416,6 +416,11 @@ section .container {
   margin-bottom: 0;
 }
 
+.about-me .social-links a{
+  font-size: 25px;
+  margin-right: 8px;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
